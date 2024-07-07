@@ -1,0 +1,168 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.good{
+    height: 80vh;
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url("./0a91ba3ef330d1b33f3c02638babfba0.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+padding-top: 10%;
+
+
+}
+.first{
+    height: 60vh;
+    border: 2px solid white;
+    width: 40%;
+    margin-left: 60px;
+  
+    text-align: center;
+    border-radius: 190px;
+}
+.nav{
+    text-align: left;
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url("./0a91ba3ef330d1b33f3c02638babfba0.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+padding: 20px;
+padding-left: 60%;
+border: 2px solid black;
+
+}
+a{
+    margin-right: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    color: yellow;
+}
+a:hover{
+    border-bottom: 3px solid yellow;
+    
+}
+.likha{
+    padding: 80px 20px;
+    color: white;
+
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 10px;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    /* width: 90%; */
+    margin-top: 10px;
+}
+button{
+    margin-top: 10px;
+    padding: 15px 20px;
+    background-color: yellow;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+button:hover{
+    color: lightcoral;
+    background: none;
+    border: 2px solid yellow;
+    /* color: white; */
+}
+
+
+.high{
+    height: 80vh;
+    /* background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url("./0a91ba3ef330d1b33f3c02638babfba0.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+position: relative; */
+background-color: cornsilk;
+color: rgb(0, 0, 0);
+padding-top: 5%;
+
+display: flex;
+align-items: center;
+justify-content: space-between;
+width: 100%;
+
+}
+.sec{
+width: 50%;
+/* border: 2px solid red; */
+margin-left: 20px;
+margin-right: 20px;
+}
+img{
+    border-radius: 1000%;
+    width:100%;
+    margin-right:margin ;
+}
+.low{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 50%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.class{
+    height: 80vh;
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url("./HD-wallpaper-background-light-backlight-beautiful-color-earth-nature-sun-trees.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+padding-top: 10%;
+
+
+}
+
+.third{
+    height: 60vh;
+    /* border: 2px solid white; */
+    width: 40%;
+    background-color: rgba(0, 0, 0, 0.555);
+    margin-left: 60px;
+  
+    text-align: center;
+    border-radius: 190px;
+}
+.ikha{
+    padding: 80px 20px;
+    color: white;
+
+}
+
+.desk{
+    height: 80vh;
+    /* background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url("./0a91ba3ef330d1b33f3c02638babfba0.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+position: relative; */
+background-color: cornsilk;
+color: rgb(0, 0, 0);
+padding-top: 5%;
+
+display: flex;
+align-items: center;
+justify-content: space-around;
+width: 100%;
+}
+.inputs{
+    /* margin-left: 30%; */
+}
+input{
+    padding: 5px;
+    border: none;
+    background-color: cornsilk;
+
+    border-bottom: 2px solid lightcoral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+textarea{
+    border: none;
+    background-color: cornsilk;
+    border-bottom: 2px solid lightcoral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
